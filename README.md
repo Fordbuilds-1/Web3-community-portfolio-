@@ -8,7 +8,7 @@ What I Do Community moderation Member support Discord & Telegram management Comm
 
 A sample case study showing how I would approach an inactive Web3 community, improve onboarding, increase meaningful engagement, handle member support, and maintain a safer community environment.
 
-View Case Study
+**[View Case Study](./Case-studies/community-activation-case-study.md)**
 
 Skills 
 
